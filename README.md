@@ -14,8 +14,7 @@ Por tal motivo. si alguien desea colaborar con el proyecto o hacerme sujerencias
 
 ## El programa y la interface:
 
-![Aplicacion web Hecha en bootstrap y guardada en progme, del esp32](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg) ![](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg)
-
+![Aplicacion web Hecha en bootstrap y guardada en progme, del esp32](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg)
 
 ### Using
 - Include in your sketch
