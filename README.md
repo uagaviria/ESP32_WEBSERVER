@@ -12,8 +12,9 @@ Por tal motivo. si alguien desea colaborar con el proyecto o hacerme sujerencias
 
 
 
-## How It Looks
-![ESP8266 WiFi Captive Portal Homepage](http://i.imgur.com/YPvW9eql.png) ![ESP8266 WiFi Captive Portal Configuration](http://i.imgur.com/oicWJ4gl.png)
+## El programa y la interface:
+
+![Aplicacion web Hecha en bootstrap y guardada en progme, del esp32](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg) ![](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg)
 
 
 ### Using
