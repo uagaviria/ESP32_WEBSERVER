@@ -1,10 +1,7 @@
 # ESP32_WEBSERVER
-ESP32&&ESP8266 WiFi Connection manager with fallback web configuration portal
-
-
-The configuration portal is of the captive variety, so on various devices it will present the configuration dialogue as soon as you connect to the created access point.
-
-First attempt at a library. Lots more changes and fixes to do. Contributions are welcome.
+El ESP32 hermano mayor del archi reconocido ESP8266, que se encuentran en la lista de procesadores diseñados para IoT.
+mas perseguidos por profecionales y aficionados de la programación y la electrónica.
+Una máquina potente que destaca por sus capacidades de comunicación WiFi y Bluetooth.
 
 ## Libray
 [WebServer  https://github.com/zhouhan0126/WebServer-esp32](https://github.com/zhouhan0126/WebServer-esp32)
