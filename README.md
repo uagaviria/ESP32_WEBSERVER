@@ -7,13 +7,10 @@ El ESP32 añade muchas funciones y mejoras respecto al ESP8266, como son mayor p
 de esta poderosa herramienta. Lo que me atrevo a Decir es que el único inconveniente que podemos tener con este gigante es la limitación de conocimiento. Por eso me he dedicado a investigarlo mas a fondo.
 Por tal motivo. si alguien desea colaborar con el proyecto o hacerme sujerencias lo puede hacer a mi correo electrónico uagaviria@gmail.com.
 
+## Mas informacion en:
+[aprendiendoarduino  https://aprendiendoarduino.wordpress.com/tag/esp32/](https://aprendiendoarduino.wordpress.com/tag/esp32/)
 
 
-
-## Libray
-[WebServer  https://github.com/zhouhan0126/WebServer-esp32](https://github.com/zhouhan0126/WebServer-esp32)
-
-[DNSServer   https://github.com/zhouhan0126/DNSServer---esp32](https://github.com/zhouhan0126/DNSServer---esp32)
 
 ## How It Looks
 ![ESP8266 WiFi Captive Portal Homepage](http://i.imgur.com/YPvW9eql.png) ![ESP8266 WiFi Captive Portal Configuration](http://i.imgur.com/oicWJ4gl.png)
