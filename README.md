@@ -132,9 +132,10 @@ const char HTML[] PROGMEM = R"=====(
 ![WifiManagerAsync ](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/wifimanager.png)
 
 ### Arduinojson y SPIFFS.
-- Desafortunadamente desde Atom no esta implementado subir archivos a la flash del ESP32, solo al  ESP8266. Pero desde eL entorno de arduino si añadiendo ciertos archivos.
+- Desafortunadamente desde Atom no esta implementado subir archivos a la flash del ESP32, solo al  ESP8266. Pero desde el entorno de arduino si añadiendo ciertos archivos.
 una imagen vale mas que mil palabras. Allí vas a poner los archivos .jar que te voy a dar para que puedas subir lo que desees a la flash.
 una vez esten alli vas al entorno de arduino y veras dos nuevas lineas en herramientas. lo veras en la imagen a continuación.
+el ESP32FS y el ESP8266FS.
 
 ![Subir archivos a la flash](https://raw.githubusercontent.com/uagaviria/ESP32_WEBSERVER/master/imagenes/spiffs.png)
 
