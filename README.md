@@ -16,8 +16,8 @@ Por tal motivo. si alguien desea colaborar con el proyecto o hacerme sujerencias
 
 ![Aplicacion web Hecha en bootstrap y guardada en progme, del esp32](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg) 
 ![WifiManagerAsync ](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/wifimanager.png)
-### Using
-- Include in your sketch
+### Subir archivo json al ESP.
+- Desafortunadamente desde Atom no esta implementado subir archivos a la flash SPIFFS. Pero desde en entorno de arduino si.
 ```cpp
 #if defined(ESP8266)
 #include <ESP8266WiFi.h>          
