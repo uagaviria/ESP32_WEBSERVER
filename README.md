@@ -130,7 +130,8 @@ const char HTML[] PROGMEM = R"=====(
 
 ![Aplicacion web Hecha en bootstrap y guardada en progme, del esp32](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/app.jpg) 
 ![WifiManagerAsync ](https://github.com/uagaviria/ESP32_WEBSERVER/blob/master/imagenes/wifimanager.png)
-### Subir archivo json al ESP.
+
+### Arduinojson y SPIFFS.
 - Desafortunadamente desde Atom no esta implementado subir archivos a la flash SPIFFS. Pero desde en entorno de arduino si.
 ```cpp
 #if defined(ESP8266)
