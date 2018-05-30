@@ -1,5 +1,9 @@
 {
 	
-	"serverName": "tuServisor",
-	"accessToken": "contrasena"
+	"Usuario": "ssid",
+	"Contrasena": "password",
+	"MqttUsername":"mqttusername",
+	"MqttPassword":"mqttpassword",
+	"ClientId":"clientid",
+	"ConfigPass":"2475"
 }

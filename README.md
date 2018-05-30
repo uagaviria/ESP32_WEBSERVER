@@ -148,20 +148,16 @@ Sencillamente se ha de crear una carpeta llamada "data" en la carpeta del Sketch
 Advertencia: ¡Esta operación borra todo el contenido y sube lo que haya en la carpeta data, no conserva los otros archivos si los tiene allí!
 
 ```cpp
-#if defined(ESP8266)
-#include <ESP8266WiFi.h>          
-#else
-#include <WiFi.h>          
-#endif
-
-//needed for library
-#include <DNSServer.h>
-#if defined(ESP8266)
-#include <ESP8266WebServer.h>
-#else
-#include <WebServer.h>
-#endif
-#include <WiFiManager.h>         
+// Archivo Config.json que deberas subir.
+{
+  
+  "Usuario": "ssid",
+  "Contrasena": "password",
+  "MqttUsername":"mqttusername",
+  "MqttPassword":"mqttpassword",
+  "ClientId":"clientid",
+  "ConfigPass":"2475"
+}  
 
 ```
 
