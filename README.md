@@ -14,7 +14,7 @@ Por tal motivo. si alguien desea colaborar con el proyecto o hacerme sujerencias
 
 ## El programa y la interface:
 
-```cpp
+```html
 //******************************************************************************************************
 // CONFIGURACION DE INTERFACE WEB EN HTML Y BOOTSTRAP.
 // Bueno. no sere el mejor programando en html y algunos diran que estoy cometiendo
