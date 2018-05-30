@@ -14,7 +14,7 @@ Por tal motivo. si alguien desea colaborar con el proyecto o hacerme sujerencias
 
 ## El programa y la interface:
 
-```html
+```cpp
 //******************************************************************************************************
 // CONFIGURACION DE INTERFACE WEB EN HTML Y BOOTSTRAP.
 // Bueno. no sere el mejor programando en html y algunos diran que estoy cometiendo
@@ -44,7 +44,7 @@ const char HTML[] PROGMEM = R"=====(
   <!--TITULO DE FORMULARIO-->
   <div class="row">
     <div class="col-xs-12">
-      <center><h2>IDATA LINK</h2></center>
+      <center><h2>APLICACION</h2></center>
     </div>
   </div>
 
