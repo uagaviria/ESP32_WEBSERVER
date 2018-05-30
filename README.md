@@ -141,6 +141,11 @@ el ESP32FS y el ESP8266FS.
 
 ![Subir archivos a la flash](https://raw.githubusercontent.com/uagaviria/ESP32_WEBSERVER/master/imagenes/spiffs.png)
 
+Una vez cumpliendo con estos requerimientos debemos subir el archivo config.json que se encuentra dentro del proyecto en la carpeta data.
+Cómo usar SPIFFS para ESP8266 en el IDE Arduino:
+
+Sencillamente se ha de crear una carpeta llamada "data" en la carpeta del Sketch y pulsar el menú "Herramientas" --> "ESP32 Sketch Data Upload". En la barra de estado veremos el progreso de la operación.
+Advertencia: ¡Esta operación borra todo el contenido y sube lo que haya en la carpeta data, no conserva los otros archivos si los tiene allí!
 
 ```cpp
 #if defined(ESP8266)
