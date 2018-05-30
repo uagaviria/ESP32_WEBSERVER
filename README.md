@@ -136,7 +136,7 @@ const char HTML[] PROGMEM = R"=====(
 una imagen vale mas que mil palabras. Allí vas a poner los archivos .jar que te voy a dar para que puedas subir lo que desees a la flash.
 una vez esten alli vas al entorno de arduino y veras dos nuevas lineas en herramientas. lo veras en la imagen a continuación.
 el ESP32FS y el ESP8266FS.
-![Link de descarga ](https://github.com/uagaviria/ESP32_WEBSERVER/tree/master/SPIFFS_UPLOAD)
+[Link de descarga ](https://github.com/uagaviria/ESP32_WEBSERVER/tree/master/SPIFFS_UPLOAD)
 
 
 ![Subir archivos a la flash](https://raw.githubusercontent.com/uagaviria/ESP32_WEBSERVER/master/imagenes/spiffs.png)
